@@ -11,4 +11,4 @@ BINANCE_SECRET_KEY to your Binance Secret Key which you can see at https://www.b
 Remember to edit restrictions and allow trading.
 
 After adding your keys do command ```python main.py```
-Wait for 60 seconds for the bot to start scraping data!
+Wait for 10 seconds for the bot to start scraping data!
