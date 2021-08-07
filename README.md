@@ -10,3 +10,5 @@ BINANCE_API_KEY to your Binance API key which you can create at https://www.bina
 BINANCE_SECRET_KEY to your Binance Secret Key which you can see at https://www.binance.com/en/my/settings/api-management
 Remember to edit restrictions and allow trading.
 
+After adding your keys do command ```python main.py```
+Wait for 60 seconds for the bot to start scraping data!
